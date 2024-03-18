@@ -1,2 +1,1 @@
-# tarat-ui
-My personal Web-Components library &lt;3
+# Custom Plugins for the weekly game dev challenge
