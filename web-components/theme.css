@@ -1,0 +1,48 @@
+/* theme.css */
+:root {
+
+    --default-gray-100: #F3F4F6;
+    --default-gray-200: #E5E7EB;
+    --default-gray-300: #D1D5DB;
+    --default-gray-400: #9CA3AF;
+    --default-gray-500: #6B7280;
+    --default-gray-600: #4B5563;
+    --default-gray-700: #374151;
+    --default-gray-800: #1F2937;
+    --default-gray-900: #111827;
+
+    --default-purple-100: #F0ECFC;
+    --default-purple-200: #E2D9FA;
+    --default-purple-300: #C5B4F5;
+    --default-purple-400: #997BED;
+    --default-purple-500: #6E42E5;
+    --default-purple-600: #572AC8;
+    --default-purple-700: #45239A;
+    --default-purple-800: #321C6D;
+    --default-purple-900: #21143F;
+
+  }
+  
+.light-theme {
+    --background-color: #fff;
+
+    --primary-color-100: var(--default-purple-100);
+    --primary-color-200: var(--default-purple-200);
+    --primary-color-300: var(--default-purple-300);
+    --primary-color-400: var(--default-purple-400);
+    --primary-color-500: var(--default-purple-500);
+    --primary-color-600: var(--default-purple-600);
+    --primary-color-700: var(--default-purple-700);
+    --primary-color-800: var(--default-purple-800);
+    --primary-color-900: var(--default-purple-900);
+
+    --gray-100: var(--default-gray-100);
+    --gray-200: var(--default-gray-200);
+    --gray-300: var(--default-gray-300);
+    --gray-400: var(--default-gray-400);
+    --gray-500: var(--default-gray-500);
+    --gray-600: var(--default-gray-600);
+    --gray-700: var(--default-gray-700);
+    --gray-800: var(--default-gray-800);
+    --gray-900: var(--default-gray-900);
+}
