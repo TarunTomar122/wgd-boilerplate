@@ -1,1 +1,1 @@
-# Custom Boilerplate for the weekly game dev challenge
+# Boilerplate for the wgd challenge
