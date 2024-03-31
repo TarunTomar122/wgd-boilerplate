@@ -1,1 +1,1 @@
-# Custom Plugins for the weekly game dev challenge
+# Custom Boilerplate for the weekly game dev challenge
