@@ -8,7 +8,7 @@ class Button extends LitElement {
                 display: inline-block;
                 height: 38px;
                 padding: 0 30px;
-                color: var(--primary-color-700);
+                color: var(--primary-color-800);
                 text-align: center;
                 font-size: 11px;
                 font-weight: 600;
@@ -19,14 +19,15 @@ class Button extends LitElement {
                 white-space: nowrap;
                 background-color: transparent;
                 border-radius: 12px;
-                border: 1px solid var(--primary-color-700);
+                border: 0.2rem solid var(--primary-color-800);
+                font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
                 cursor: pointer;
                 box-sizing: border-box; 
             }
             button:hover,
             button:focus{
-                color: var(--primary-color-500);
-                border-color: var(--primary-color-500);
+                color: var(--primary-color-600);
+                border-color: var(--primary-color-600);
                 outline: 0; 
             }
         `; 
@@ -45,4 +46,4 @@ class Button extends LitElement {
     }
 }
 
-customElements.define('gd-button', Button);
+customElements.define('wgd-button', Button);

@@ -11,6 +11,7 @@ class Input extends LitElement {
                 font-size: 12px;
                 line-height: 38px;
                 font-weight: 500;
+                font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
                 letter-spacing: .1rem;
                 text-decoration: none;
                 white-space: nowrap;
